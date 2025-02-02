@@ -1,0 +1,1 @@
+lock add [ebx + 0x10], ecx
