@@ -1,0 +1,1 @@
+This repository demonstrates a race condition bug in assembly code.  The bug occurs due to a lack of synchronization when accessing shared memory.  The solution involves using appropriate synchronization primitives to ensure atomicity.
